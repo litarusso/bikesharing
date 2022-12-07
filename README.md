@@ -6,6 +6,10 @@ The full Tableau Story is at the link https://public.tableau.com/app/profile/est
 
 
 ## Result
+The data I used wasn't a proper data to analyse the date and time fields. So, I had to convert the "tripduration" column to date and time. 
+<img width="540" alt="Screen Shot 2022-12-06 at 3 20 57 PM" src="https://user-images.githubusercontent.com/111788394/206246824-e0d54df5-1e4e-47fb-8da3-c6e32d56d61a.png">
+
+
 Our data show high activity of the bike sharing service (CityBikes) in NYC during the month of August 2019.
 ### Checkout Times
 I created a slide with two plots about checkout times. The first plot is "Checkout Times for Users," and the second is "Checkout Times by Gender."

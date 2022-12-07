@@ -22,11 +22,10 @@ Also, we see that subscribers are more loyal to CityBikes than customers.
 ## Two Additional Plots
 <img width="1010" alt="Slide4-Two_additional_plots" src="https://user-images.githubusercontent.com/111788394/206062138-7cb2ed9c-61bb-4b48-aed5-5ebc75f3361a.png">
 
-
-1- Checkout Times by age
+### 1- Checkout Times by age
 This plot is to see which is the age interval which uses the most this service the most. This service is top-rated among people born in 1990.
 
-2- Top 10 Start Stations
+### 2- Top 10 Start Stations
 This plot is to determine the most usable start station. The station on Pershing Square Nort is the most popular.
 
 

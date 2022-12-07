@@ -8,21 +8,35 @@ The full Tableau Story is at the link https://public.tableau.com/app/profile/est
 ## Result
 Our data show high activity of the bike sharing service (CityBikes) in NYC during the month of August 2019.
 ### Checkout Times
-I created a slide with two plots about Checkout Times. The first plot is "Checkout Times for Users," and the second is "Checkout Times by Gender."
-As I thought it will be usefull to see the users for 2 hours or less, I filtered them for 0, 1 and 2 hours. However, if they want deep down, they can select more from the filter box.
+I created a slide with two plots about checkout times. The first plot is "Checkout Times for Users," and the second is "Checkout Times by Gender."
+I thought it will be usefull to see the users for 2 hours or less, so I filtered them for 0, 1 and 2 hours. However, if they want deep down, they can select more from the filter box.
+According to the data, more bikes are rented for less than an hour, as you can see in the chart below. The second chart demonstrates that males use the CityBike services in NYC more than females. 
+
 <img width="1014" alt="Slide1-Trips by Check Out Times" src="https://user-images.githubusercontent.com/111788394/206045870-906ec1f8-9249-4919-850e-4ba55aa1becf.png">
 
 ### Trips by Weekdays
-In this slide of the story, we can see that people in New York City mostly use city bikes at rush hour on weekdays and from 10 am to 5 pm on weekends.
+In this slide of Tableau story, we can see that people in New York City mostly use city bikes at rush hours on weekdays and from 10 am to 5 pm on weekends.
 <img width="999" alt="Slide2-Trips by Weekdays for Hour" src="https://user-images.githubusercontent.com/111788394/206046224-d49a0d47-600a-4a56-bfb2-c50638980b98.png">
 
-### Trips by Gender
-In this slide of the story, we can see the usage of city bikes in New York City in August 2019. Furthermore, we see that men are using city bikes more than women. In that case, the company could promote to encourage women to use them more.
+### Trips by Gender and Type (customers vs. suscribers)
+In this slide, we can see the usage of city bikes in New York City in August 2019. Furthermore, we see that males are using city bikes more than females, as mentioned above. In that case, the company could promote to encourage females to use them more.
 Also, we see that subscribers are more loyal to CityBikes than customers.
 <img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206071373-e62f22f8-9334-4d5b-bdc6-2e900b673e7a.png">
 
 ## Summary
-## Two Additional Plots
+ 
+In short, it is possible to conclude that NYC City Bikes are used mostly for short trips. People usually rent them for around 10-20 minutes (slide 1). 
+
+We have discovered that people use NYC City Bikes in rush hours during the weekdays and from 10 am to 5 pmm on weekends (slide 2). Our analysis also demontrates that males tend to use this service more than females (slide 3). 
+
+
+### Two Additional Plots
+
+
+Additionally in the plots below you can see that there were more demand for this service in 1990, after that year, people started using City Bikes less and less. 
+
+Lastly, I have analyzed the top ten stations, my second additional plot shows that the E17 St & Broadway station is the most popular station in New York City. 
+
 <img width="1010" alt="Slide4-Two_additional_plots" src="https://user-images.githubusercontent.com/111788394/206062138-7cb2ed9c-61bb-4b48-aed5-5ebc75f3361a.png">
 
 

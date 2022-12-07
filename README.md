@@ -1,6 +1,6 @@
 # Bikesharing
 ## The Purpose
-The purpose of this analysis is to visualize the  NYC CitiBike data, for the potential inventors. We analized and visualized the potential of this bussiness by preparing various plots in tableau. Furthermore I prepares a Story in Tableau Public. The image below is the story's slides names.
+The purpose of this analysis is to visualize the  NYC CitiBike data for the potential inventors. We analized and visualized the potential of this bussiness by preparing various plots in Tableau. Furthermore I prepared a Story in Tableau Public. The image below is the slides names of the stories.
 <img width="1009" alt="Story" src="https://user-images.githubusercontent.com/111788394/206062713-02c93e9c-0066-40d1-a6cd-935e0ae1c5ae.png">
 The full Tableau Story is at the link https://public.tableau.com/app/profile/estel.lita.russo/viz/NYC_CityBike_Analysis_16703783939260/Story1
 

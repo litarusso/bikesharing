@@ -3,7 +3,7 @@
 This analysis aims to visualize the  NYC CitiBike data for potential inventors. We analyzed and visualized the potential of this business by preparing various plots in Tableau. Furthermore, I prepared a Story for Tableau Public. The image below is the slide names of the stories.
 ### -Image 1-
 <img width="1009" alt="Story" src="https://user-images.githubusercontent.com/111788394/206062713-02c93e9c-0066-40d1-a6cd-935e0ae1c5ae.png">
-
+ 
 
 The full Tableau Story is at the link https://public.tableau.com/app/profile/estel.lita.russo/viz/NYC_CityBike_Analysis_16703783939260/Story1
 

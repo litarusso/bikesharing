@@ -5,7 +5,7 @@ The purpose of this analysis is to visualize the  NYC CitiBike data, for the pot
 The full Tableau Story is at the link https://public.tableau.com/app/profile/estel.lita.russo/viz/NYC_CityBike_Analysis_16703783939260/Story1
 
 
-## Summary
+## Result
 This data show high activity of the bike sharing service (CityBikes) in NYC during the month of August 2019.
 ### Checkout Times
 I created a slide with two plots about Checkout Times. The first plot is "Checkout Times for Users," and the second is "Checkout Times by Gender."
@@ -21,7 +21,7 @@ In this slide of the story, we can see the usage of city bikes in New York City 
 Also, we see that subscribers are more loyal to CityBikes than customers.
 <img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206071373-e62f22f8-9334-4d5b-bdc6-2e900b673e7a.png">
 
-
+## Summary
 ## Two Additional Plots
 <img width="1010" alt="Slide4-Two_additional_plots" src="https://user-images.githubusercontent.com/111788394/206062138-7cb2ed9c-61bb-4b48-aed5-5ebc75f3361a.png">
 

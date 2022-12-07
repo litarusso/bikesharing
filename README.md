@@ -6,7 +6,7 @@ The full Tableau Story is at the link https://public.tableau.com/app/profile/est
 
 
 ## Result
-This data show high activity of the bike sharing service (CityBikes) in NYC during the month of August 2019.
+Our data show high activity of the bike sharing service (CityBikes) in NYC during the month of August 2019.
 ### Checkout Times
 I created a slide with two plots about Checkout Times. The first plot is "Checkout Times for Users," and the second is "Checkout Times by Gender."
 As I thought it will be usefull to see the users for 2 hours or less, I filtered them for 0, 1 and 2 hours. However, if they want deep down, they can select more from the filter box.

@@ -19,7 +19,8 @@ In this slide of the story, we can see that people in New York City mostly use c
 ### Trips by Gender
 In this slide of the story, we can see the usage of city bikes in New York City in August 2019. Furthermore, we see that men are using city bikes more than women. In that case, the company could promote to encourage women to use them more.
 Also, we see that subscribers are more loyal to CityBikes than customers.
-<img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206046249-0a54fa97-177e-479b-a389-32fd6c218b6d.png">
+<img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206071373-e62f22f8-9334-4d5b-bdc6-2e900b673e7a.png">
+
 
 ## Two Additional Plots
 <img width="1010" alt="Slide4-Two_additional_plots" src="https://user-images.githubusercontent.com/111788394/206062138-7cb2ed9c-61bb-4b48-aed5-5ebc75f3361a.png">

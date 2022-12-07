@@ -20,7 +20,8 @@ Also, we see that subscribers are more loyal to CityBikes than customers.
 <img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206046249-0a54fa97-177e-479b-a389-32fd6c218b6d.png">
 
 ## Two Additional Plots
-<img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206061959-6844523b-eda7-4e6e-b1db-a18cc83b8518.png">
+<img width="1010" alt="Slide4-Two_additional_plots" src="https://user-images.githubusercontent.com/111788394/206062138-7cb2ed9c-61bb-4b48-aed5-5ebc75f3361a.png">
+
 
 1- Checkout Times by age
 This plot is to see which is the age interval which uses the most this service the most. This service is top-rated among people born in 1990.

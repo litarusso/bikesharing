@@ -1,5 +1,37 @@
 # Bikesharing
 ## The Purpose
 The purpose of this analysis is to visualize the  NYC CitiBike data, for the potential inventors. We analized and visualized the potential of this bussiness by preparing various plots in tableau.
-(https://pages.github.com/)
+
+
+## Summary
+This data show high activity of the bike sharing service (CityBikes) in NYC during the month of August 2019.
+### Checkout Times
+I created two plots about Checkout Times. The first plot is "Checkout Times for Users," and the second is "Checkout Times by Gender."
+As I thought it will be usefull to see the users for 2 hours or less, I filtered them for 0, 1 and 2 hours. However, if they want deep down, they can select more from the filter box.
+<img width="1014" alt="Slide1-Trips by Check Out Times" src="https://user-images.githubusercontent.com/111788394/206045870-906ec1f8-9249-4919-850e-4ba55aa1becf.png">
+
+### Trips by Weekdays
+In this plot, we can see that people in New York City mostly use city bikes at rush hour on weekdays and from 10 am to 5 pm on weekends.
+<img width="999" alt="Slide2-Trips by Weekdays for Hour" src="https://user-images.githubusercontent.com/111788394/206046224-d49a0d47-600a-4a56-bfb2-c50638980b98.png">
+
+### Trips by Gender
+In this plot, we can see the usage of city bikes in New York City in August 2019. Furthermore, we see that men are using city bikes more than women. In that case, the company could promote to encourage women to use them more.
+Also, we see that subscribers are more loyal to CityBikes than customers.
+<img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206046249-0a54fa97-177e-479b-a389-32fd6c218b6d.png">
+
+## Two Additional Plots
+<img width="1440" alt="Side3-Trips by gender in weekdays" src="https://user-images.githubusercontent.com/111788394/206061959-6844523b-eda7-4e6e-b1db-a18cc83b8518.png">
+
+1- Checkout Times by age
+This plot is to see which is the age interval which uses the most this service the most. This service is top-rated among people born in 1990.
+
+2- Top 10 Start Stations
+This plot is to determine the most usable start station. The station on Pershing Square Nort is the most popular.
+
+
+
+
+
+
+
 
